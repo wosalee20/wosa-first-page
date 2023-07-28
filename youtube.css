@@ -55,7 +55,7 @@ row-gap:40px;
 	right: 5px;
 	border-radius: 2px;
 }
-@media(max-width: 500px){
+@media(max-width: 420px){
 .video-grid{
 grid-template-columns: 1fr 1fr;
 }
