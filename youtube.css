@@ -59,10 +59,9 @@ row-gap:40px;
 .video-grid{
 grid-template-columns: 1fr 1fr;
 }
-	@media (min-width: 1000px ) and (max-width: 1200px){
+@media (min-width: 1000px ) and (max-width: 1200px){
 			
-			.video-grid{
-				1fr 1fr 1fr;}
+.video-grid { grid-template-columns: 1fr 1fr 1fr;}
 	}
 		
 		
