@@ -55,11 +55,11 @@ row-gap:40px;
 	right: 5px;
 	border-radius: 2px;
 }
-@media (min-width: 100px ) and (max-width: 800px){
+@media (min-width: 100px ) and (max-width: 850px){
 .video-grid{
 grid-template-columns: 1fr 1fr;
 }
-@media (min-width: 801px ) and (max-width: 999px){
+@media (min-width: 851px ) and (max-width: 999px){
 			
 .video-grid { grid-template-columns: 1fr 1fr 1fr;}
 	}
